@@ -3,12 +3,12 @@ layout: page
 title: ""
 ---
 <p align="center">
-  <img width="420" height="300" src="IMG_20200409_010555_376.jpg">
+  <img width="720" height="300" src="IMG_20200409_010555_376.jpg">
 </p>
 
 ## Bio ##
 
-  I'm working as an Young Professional in the [Agriculture and Allied Sectors Vertical](https://www.niti.gov.in/index.php/verticals/agriculture) of the [NITI Aayog](https://www.niti.gov.in/), New Delhi, an apex public policy think tank of the Government of India.
+  I'm working as a Business Development Manager at the APEDA.
   
   I, recently, worked as a 'Consultant - Dairy Market' for the [Food and Agriculture Organization of the United Nations](https://www.fao.org/about/en/) under the project "Guidelines to increase the resilience of agricultural supply chains: Getting on the right track to stabilize production and markets".
   
@@ -39,4 +39,4 @@ title: ""
 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fadeeth07.github.io&count_bg=%233DC8C7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2F[113pavan113.github.io](https://113pavan113.github.io&count_bg=%233DC8C7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
