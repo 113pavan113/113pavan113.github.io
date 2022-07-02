@@ -9,10 +9,8 @@ title: ""
 ## Bio ##
 
   I'm working as a Business Development Manager in Cereals Division of Agricultural Processed Food Products Export Development Authority [APEDA](https://apeda.gov.in/apedawebsite), Ministry of Commerce and Industry, Govt of India. 
-  
- I am the 2021 recipient of the Best PhD Presentation Award (2nd Prize) at the 81st Annual Conference of the Indian Society of Agricultural Economics (ISAE) and 2020 recipient of the [R. T. Doshi Best Presentation Award (2nd Prize)](http://aeraindia.in/bestpaperpresentation) during the 28th  Agricultural Economics Research Association (AERA) (India) for the paper [Interlink between factor and product markets: Opportunity for the future of Indian agriculture](https://ageconsearch.umn.edu/record/310338?ln=en).
-  
-   I received a M.Sc degree in Agricultural Economics from the [University of Hohenheim](https://www.uni-hohenheim.de/en/agricultural-economics-masters#:~:text=Agricultural%20research%20at%20the%20University,bio%2Dbased%20value%2Dcreation%20networks), Stuttgart, Germany in 2019. The title of my M.sc thesis was [Knowledge and Perception of Farmers on Solar Irrigation Pumps in Gadag District, KA, India]. I received a B. Sc. (Agriculture Marketing and Co-operation) degree from University of Agricultural Sciences, Bengaluru, KA, India in 2013. 
+
+   I received a M.Sc degree in Agricultural Economics from the [University of Hohenheim](https://www.uni-hohenheim.de/en/agricultural-economics-masters#:~:text=Agricultural%20research%20at%20the%20University,bio%2Dbased%20value%2Dcreation%20networks), Stuttgart, Germany in 2019. The title of my M.sc thesis was [Knowledge and Perception of Farmers on Solar Irrigation Pumps in Gadag District, KA, India]. I am the recipient of The German Academic Exchange Service [DAAD](https://www.uni-hohenheim.de/en/agecon-scholarships) fellowship award for the year 2017. I received a B. Sc. (Agriculture Marketing and Co-operation) degree from University of Agricultural Sciences, Bengaluru, KA, India in 2013. 
    
   My research interests include  International Trade, Agricultural Export Analysis, Agricultural markets and its interlink, SPS measures. 
 
