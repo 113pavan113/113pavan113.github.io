@@ -8,15 +8,13 @@ title: ""
 
 ## Bio ##
 
-  I'm working as a Business Development Manager at the APEDA.
-  
-  I, recently, worked as a 'Consultant - Dairy Market' for the [Food and Agriculture Organization of the United Nations](https://www.fao.org/about/en/) under the project "Guidelines to increase the resilience of agricultural supply chains: Getting on the right track to stabilize production and markets".
+  I'm working as a Business Development Manager in Cereals Division of Agricultural Processed Food Products Export Development Authority [APEDA](https://apeda.gov.in/apedawebsite), Ministry of Commerce and Industry, Govt of India. 
   
  I am the 2021 recipient of the Best PhD Presentation Award (2nd Prize) at the 81st Annual Conference of the Indian Society of Agricultural Economics (ISAE) and 2020 recipient of the [R. T. Doshi Best Presentation Award (2nd Prize)](http://aeraindia.in/bestpaperpresentation) during the 28th  Agricultural Economics Research Association (AERA) (India) for the paper [Interlink between factor and product markets: Opportunity for the future of Indian agriculture](https://ageconsearch.umn.edu/record/310338?ln=en).
   
-   I received a Ph.D degree from the [ICAR - National Dairy Research Institute](http://ndri.res.in/), Karnal, HR, India. The title of my Ph.D. thesis was [Impact evaluation of anionic mineral mixture supplementation on milk production and the milk fever: A randomized controlled trial](https://www.socialscienceregistry.org/trials/5108). I received a B. Sc. (Agriculture) degree from University of Agricultural Sciences, Bengaluru, KA in 2012 and an M. Sc. (Agri) in Agricultural Economics from University of Agricultural Sciences, Raichur, KA in 2016.
+   I received a M.Sc degree in Agricultural Economics from the [University of Hohenheim](https://www.uni-hohenheim.de/en/agricultural-economics-masters#:~:text=Agricultural%20research%20at%20the%20University,bio%2Dbased%20value%2Dcreation%20networks), Stuttgart, Germany in 2019. The title of my M.sc thesis was [Knowledge and Perception of Farmers on Solar Irrigation Pumps in Gadag District, KA, India]. I received a B. Sc. (Agriculture Marketing and Co-operation) degree from University of Agricultural Sciences, Bengaluru, KA, India in 2013. 
    
-  My research interests include impact evaluation, agricultural markets and its interlink, agricultural finance and agricultural policy evaluation.
+  My research interests include  International Trade, Agricultural Export Analysis, Agricultural markets and its interlink, SPS measures. 
 
 
 
