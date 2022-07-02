@@ -17,7 +17,9 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
-  - {title: "CV", url: "/CV.pdf"}
+  - {title: "Curriculum Vitae (CV)", url: "/CV.pdf"}
+  - {title: "Master's Thesis", url: "/Thesis.pdf"}
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:pavanrajg@gmail.com"}
