@@ -14,9 +14,9 @@ title: ""
    
  ** My area of work expertise include:** 
   * Handling fanancial assistence schemes of APEDA
-  * Promotion of agricultural exports from withing the country 
-  * Organizing International Buyer-Seller Meets (Physical and Virtual), Trade fares related to cereals 
-  * Solving technical problems related to trade issues and queries related to Cereals Division
+  * Promotion of agricultural exports from with in the country 
+  * Organizing International Buyer-Seller Meets (Physical and Virtual), Trade fares related to Cereals Division 
+  * Solving technical problems related to trade issues of Cereals Division
   * Assit in signing MoU's with other organisations in order to promote Agri export from the country
   
  My research interests include  International Trade, Agricultural Export Analysis, Agricultural markets and its interlink, SPS measures. 
