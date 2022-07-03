@@ -14,7 +14,7 @@ title: ""
    
  ** My area of work expertise include:** 
   * Handling fanancial assistence schemes of APEDA
-  * Promotion of agricultural exports from with in the country 
+  * Promotion of agricultural exports from the country 
   * Organizing International Buyer-Seller Meets (Physical and Virtual), Trade fares related to Cereals Division 
   * Solving technical problems related to trade issues of Cereals Division
   * Assit in signing MoU's with other organisations in order to promote Agri export from the country
