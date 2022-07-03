@@ -17,9 +17,9 @@ title: ""
   * Promotion of agricultural exports from the country 
   * Organizing International Buyer-Seller Meets (Physical and Virtual), Trade fares related to Cereals Division 
   * Solving technical problems related to trade issues of Cereals Division
-  * Assit in signing MoU's with other organisations in order to promote Agri export from the country
+  * Assist in signing MoU's with other organisations in order to promote Agri export from the country
   
- My research interests include  International Trade, Agricultural Export Analysis, Agricultural markets and its interlink, SPS measures. 
+ My research interests include  International Trade, Agricultural Export Analysis, Agricultural markets and its interlink, Sustainability, SPS measures. 
 
 
 
