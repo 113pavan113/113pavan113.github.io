@@ -2,7 +2,6 @@
 layout: page
 title: "Working papers"
 ---
-# Working papers #
 
 Sl. No | Title | Data and Methods | Link | Status
 ------------ | ------------- | ------------ | -------------
