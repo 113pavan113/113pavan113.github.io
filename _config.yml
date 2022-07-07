@@ -18,7 +18,7 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
   - {title: "Curriculum Vitae (CV)", url: "/CV.pdf"}
-  - {title: "Master's Thesis", url: "/Thesis.pdf"}
+  - {title: "Working Papers", file: "wp.md"}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
